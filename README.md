@@ -1,2 +1,3 @@
 # global-wheat-detection
-Kaggle competition
+notebook for Kaggle competition 11.June.2020
+
